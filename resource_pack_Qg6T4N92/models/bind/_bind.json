@@ -1,0 +1,38 @@
+{
+    "version": "1.2.0",
+    "description": {
+        "file_type": "bind",
+        "model": "",
+        "model_type": ""
+    },
+    "model": {
+        "": {
+            "bind": {
+                "default": {
+                    "head": {
+                        "effect": {
+                            "head_0": {
+                                "bind_effect": [],
+                                "bind_model": [],
+                                "bind_offset": [0, 0, 0],
+                                "bind_rotate": [0, 0, 0]
+                            }
+                        }
+                    }
+                }
+            },
+            "animation": {
+                "": "default"
+            },
+            "sounds": {
+                "default": []
+            },
+            "animation_speed": {}
+        }
+    },
+    "editor": {
+        "show": {
+            "default": true
+        }
+    }
+}

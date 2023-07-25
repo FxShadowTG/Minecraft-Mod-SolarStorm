@@ -1,0 +1,27 @@
+{
+    "version": "1.2.0",
+    "description": {
+        "file_type": "bind",
+        "model": "armor\\3d_armor",
+        "model_type": "original"
+    },
+    "model": {
+        "armor\\3d_armor": {
+            "bind": {
+                "default": {}
+            },
+            "animation": {
+                "": "default"
+            },
+            "sounds": {
+                "default": []
+            },
+            "animation_speed": {}
+        }
+    },
+    "editor": {
+        "show": {
+            "default": true
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_data": {
+        "kojyr:item_sunglasses": {
+            "textures": "textures/items/transparent_sunglasses"
+        }
+    },
+    "texture_name": "atlas.items"
+}

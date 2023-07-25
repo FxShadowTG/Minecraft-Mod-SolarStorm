@@ -1,0 +1,47 @@
+{
+  "Source": "空白附加包",
+  "CreateVersion": "2.6.0.372521",
+  "EditVersion": "2.6.0.372521",
+  "OldEditCount": 0,
+  "NewEditCount": 9,
+  "OldComponents": [],
+  "Account": "",
+  "UserName": "",
+  "UserId": "",
+  "Id": "32d6d757ed5648ee94cf452b3c9d768d",
+  "EditType": 2,
+  "IsMap": false,
+  "CreateNew": true,
+  "CodeEnable": true,
+  "CanPublishResourceComponent": false,
+  "EditName": "solarStorm",
+  "GameType": 1,
+  "WorldType": 1,
+  "Seed": "",
+  "BlockNums": [
+    0,
+    0
+  ],
+  "BornPoint": [
+    0,
+    0,
+    0
+  ],
+  "SaveBackMapPath": "",
+  "SaveBackAddOnPath": "",
+  "ResourceIds": [
+    "4663899258541697079"
+  ],
+  "EditAddOnPaths": [],
+  "EditMaterialPaths": [],
+  "EditLogFilePath": "",
+  "ServerName": "",
+  "StudioPort": 9760,
+  "DCWebUrl": "https://x19apigatewayexpr.nie.netease.com",
+  "ShowGuide": false,
+  "AssertCacheDir": "",
+  "ElkUrl": "",
+  "ShowGpuDriverTips": false,
+  "StudioTempPath": "",
+  "EditorResourcePackPath": ""
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:max_damage": 10,
+            "netease:armor": {
+                "armor_slot": 0,
+                "defense": 10,
+                "enchantment": 10
+            },
+            "netease:customtips": {
+                "value": "§6据说戴上后可无视太阳发出的炙热光芒"
+            }
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "kojyr:item_sunglasses",
+            "register_to_create_menu": true
+        }
+    }
+}

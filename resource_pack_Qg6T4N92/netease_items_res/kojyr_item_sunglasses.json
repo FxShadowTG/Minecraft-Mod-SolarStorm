@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "kojyr:item_sunglasses"
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "kojyr:item_sunglasses",
+            "register_to_create_menu": true
+        }
+    }
+}

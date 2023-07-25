@@ -1,0 +1,17 @@
+{
+    "Arena.Component.Namespace": "kojyr",
+    "FirstTabSetting": 1,
+    "ShortItemSettings": [
+        "resource_pack_Qg6T4N92\\ui",
+        "behavior_pack_5mHow1FH\\Presets",
+        "behavior_pack_5mHow1FH\\Parts",
+        "behavior_pack_5mHow1FH\\BoxData",
+        "resource_pack_Qg6T4N92\\effects",
+        "resource_pack_Qg6T4N92\\models",
+        "resource_pack_Qg6T4N92\\textures"
+    ],
+    "Uluru.autoLayerDict": {
+
+    },
+    "Uluru.checkSuspectOldUI": true
+}

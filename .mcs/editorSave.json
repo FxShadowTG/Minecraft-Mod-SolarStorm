@@ -1,0 +1,33 @@
+{
+    "Addon": {
+        "EnchantSetting": {
+            "amplifier": 1
+        },
+        "PackResourceSortData": {
+            "2_gacle:item_3d_armor": {
+                "createTime": 1686282650.422411,
+                "modifyTime": 1686284724.589732
+            },
+            "2_kojyr:item_sunglasses": {
+                "createTime": 1686282665.0279734,
+                "modifyTime": 1686301409.5041213
+            },
+            "8_kojyr:sunglasses": {
+                "createTime": 1686301446.1776333,
+                "modifyTime": 1686301527.0685234
+            }
+        },
+        "PlayerEffectSetting": {
+            "amplifier": 1,
+            "duration": 10
+        },
+        "PresetInstanceTreeData": [
+
+        ]
+    },
+    "UI": {
+        "customPrefabGroupExpand": [
+
+        ]
+    }
+}
